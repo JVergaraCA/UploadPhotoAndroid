@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "663307929160",
+    "firebase_url": "https://flash-ec8b4.firebaseio.com",
+    "project_id": "flash-ec8b4",
+    "storage_bucket": "flash-ec8b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663307929160:android:b562812f55d488b2",
+        "android_client_info": {
+          "package_name": "cl.wower.flash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663307929160-2j5d2jmhpqfqfs8cegg7n1809p3s0gtn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.wower.flash",
+            "certificate_hash": "02b80aefd2901d3681c972fb43427b6076db6185"
+          }
+        },
+        {
+          "client_id": "663307929160-vs6rtc1th2adnttrufsivak4bul5hsnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.wower.flash",
+            "certificate_hash": "a499f1a16d8e563cd55d83f605f4b327440846ac"
+          }
+        },
+        {
+          "client_id": "663307929160-2e9nf528dqhb1suk95ivfrdjc6ahdpq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA6P3CG9ebXpO_aTGSOQuDTfDjx4oPhTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663307929160-2e9nf528dqhb1suk95ivfrdjc6ahdpq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663307929160:android:6618301abbae4fdd",
+        "android_client_info": {
+          "package_name": "cl.wower.photoexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663307929160-n8rpp79r68js1ded4o8t0f0ig46khjmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.wower.photoexample",
+            "certificate_hash": "a499f1a16d8e563cd55d83f605f4b327440846ac"
+          }
+        },
+        {
+          "client_id": "663307929160-2e9nf528dqhb1suk95ivfrdjc6ahdpq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA6P3CG9ebXpO_aTGSOQuDTfDjx4oPhTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663307929160-2e9nf528dqhb1suk95ivfrdjc6ahdpq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
